@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuite tests="2" failures="0" name="TestSuite" time="17.636" errors="0" skipped="0">
+  <properties>
+    <property name="JOB_NAME" value="seleniummaven"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="RUN_TESTS_DISPLAY_URL" value="http://10.0.0.70:8080/job/seleniummaven/2/display/redirect?page=tests"/>
+    <property name="NUMBER_OF_PROCESSORS" value="8"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="JENKINS_HOME" value="C:\Users\MANAVDEEP SINGH\.jenkins"/>
+    <property name="FPS_BROWSER_USER_PROFILE_STRING" value="Default"/>
+    <property name="HUDSON_SERVER_COOKIE" value="a7e39422c17db1e2"/>
+    <property name="POM_ARTIFACTID" value="mavenjava1"/>
+    <property name="os.name" value="Windows 11"/>
+    <property name="EXECUTOR_NUMBER" value="0"/>
+    <property name="PATHEXT" value=".COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC"/>
+    <property name="POM_DISPLAYNAME" value="mavenjava1"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="TEMP" value="C:\Users\MANAVDEEP SINGH\AppData\Local\Temp"/>
+    <property name="NODE_LABELS" value="built-in"/>
+    <property name="java.runtime.version" value="18.0.2+9-61"/>
+    <property name="FPS_BROWSER_APP_PROFILE_STRING" value="Internet Explorer"/>
+    <property name="user.name" value="MANAVDEEP SINGH"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="CommonProgramW6432" value="C:\Program Files\Common Files"/>
+    <property name="ProgramFiles" value="C:\Program Files"/>
+    <property name="PROMPT" value="$P$G"/>
+    <property name="user.language" value="en"/>
+    <property name="JOB_BASE_NAME" value="seleniummaven"/>
+    <property name="RUN_CHANGES_DISPLAY_URL" value="http://10.0.0.70:8080/job/seleniummaven/2/display/redirect?page=changes"/>
+    <property name="BUILD_DISPLAY_NAME" value="#2"/>
+    <property name="OneDrive" value="C:\Users\MANAVDEEP SINGH\OneDrive"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-18.0.2\bin"/>
+    <property name="java.vm.compressedOopsMode" value="32-bit"/>
+    <property name="LOCALAPPDATA" value="C:\Users\MANAVDEEP SINGH\AppData\Local"/>
+    <property name="java.version" value="18.0.2"/>
+    <property name="user.timezone" value="America/New_York"/>
+    <property name="PROCESSOR_LEVEL" value="23"/>
+    <property name="USERNAME" value="MANAVDEEP SINGH"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="NODE_NAME" value="built-in"/>
+    <property name="OneDriveConsumer" value="C:\Users\MANAVDEEP SINGH\OneDrive"/>
+    <property name="BUILD_ID" value="2"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="maven.conf" value="C:\Program Files\Java\apache-maven-3.8.6-bin\apache-maven-3.8.6\conf"/>
+    <property name="HOMEDRIVE" value="C:"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="62.0"/>
+    <property name="=::" value="::\"/>
+    <property name="org.slf4j.simpleLogger.defaultLogLevel" value="info"/>
+    <property name="user.country" value="IN"/>
+    <property name="ALLUSERSPROFILE" value="C:\ProgramData"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk-18.0.2"/>
+    <property name="java.vm.info" value="mixed mode, sharing"/>
+    <property name="os.version" value="10.0"/>
+    <property name="RUN_DISPLAY_URL" value="http://10.0.0.70:8080/job/seleniummaven/2/display/redirect"/>
+    <property name="POM_VERSION" value="0.0.1-SNAPSHOT"/>
+    <property name="TMP" value="C:\Users\MANAVDEEP SINGH\AppData\Local\Temp"/>
+    <property name="path.separator" value=";"/>
+    <property name="RUN_ARTIFACTS_DISPLAY_URL" value="http://10.0.0.70:8080/job/seleniummaven/2/display/redirect?page=artifacts"/>
+    <property name="java.vm.version" value="18.0.2+9-61"/>
+    <property name="user.variant" value=""/>
+    <property name="CommonProgramFiles(x86)" value="C:\Program Files (x86)\Common Files"/>
+    <property name="JOB_DISPLAY_URL" value="http://10.0.0.70:8080/job/seleniummaven/display/redirect"/>
+    <property name="USERDOMAIN_ROAMINGPROFILE" value="DESKTOP-IB7LD9H"/>
+    <property name="CommonProgramFiles" value="C:\Program Files\Common Files"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="JAVA_HOME" value="C:\Program Files\Java\jdk-18.0.2"/>
+    <property name="ComSpec" value="C:\WINDOWS\system32\cmd.exe"/>
+    <property name="HOMEPATH" value="\Users\MANAVDEEP SINGH"/>
+    <property name="POM_PACKAGING" value="jar"/>
+    <property name="COMPUTERNAME" value="DESKTOP-IB7LD9H"/>
+    <property name="user.script" value=""/>
+    <property name="POM_GROUPID" value="QAMaven"/>
+    <property name="user.home" value="C:\Users\MANAVDEEP SINGH"/>
+    <property name="PUBLIC" value="C:\Users\Public"/>
+    <property name="BUILD_TAG" value="jenkins-seleniummaven-2"/>
+    <property name="JENKINS_SERVER_COOKIE" value="a7e39422c17db1e2"/>
+    <property name="HUDSON_URL" value="http://10.0.0.70:8080/"/>
+    <property name="ProgramData" value="C:\ProgramData"/>
+    <property name="java.version.date" value="2022-07-19"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="USERPROFILE" value="C:\Users\MANAVDEEP SINGH"/>
+    <property name="CLASSPATH" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk-18.0.2\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Program Files\Java\apache-maven-3.8.6-bin\apache-maven-3.8.6/bin;C:\Program Files\Java\jdk-18.0.2/bin;C:\Program Files\Java\jdk-18.0.2/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Java\apache-maven-3.8.6-bin\apache-maven-3.8.6\bin;C:\Users\MANAVDEEP SINGH\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk-12.0.2\bin;C:\Program Files (x86)\Java\jre1.8.0_341\bin;D:\Driver\apache-maven-3.8.6-bin\apache-maven-3.8.6\bin;;."/>
+    <property name="java.vendor.url" value="https://java.oracle.com/"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="APPDATA" value="C:\Users\MANAVDEEP SINGH\AppData\Roaming"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="maven.home" value="C:\Program Files\Java\apache-maven-3.8.6-bin\apache-maven-3.8.6"/>
+    <property name="java.class.path" value="C:\Users\MANAVDEEP SINGH\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-agent-1.14.jar;C:\Program Files\Java\apache-maven-3.8.6-bin\apache-maven-3.8.6\boot\plexus-classworlds-2.6.0.jar;C:\Program Files\Java\apache-maven-3.8.6-bin\apache-maven-3.8.6/conf/logging"/>
+    <property name="sun.java.command" value="jenkins.maven3.agent.Maven35Main C:\Program Files\Java\apache-maven-3.8.6-bin\apache-maven-3.8.6 C:\Users\MANAVDEEP SINGH\.jenkins\war\WEB-INF\lib\remoting-3044.vb_940a_a_e4f72e.jar C:\Users\MANAVDEEP SINGH\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.14.jar C:\Users\MANAVDEEP SINGH\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.14.jar 53007"/>
+    <property name="native.encoding" value="Cp1252"/>
+    <property name="Path" value="C:\Program Files\Java\jdk-18.0.2/bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Java\apache-maven-3.8.6-bin\apache-maven-3.8.6\bin;C:\Users\MANAVDEEP SINGH\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Java\jdk-12.0.2\bin;C:\Program Files (x86)\Java\jre1.8.0_341\bin;D:\Driver\apache-maven-3.8.6-bin\apache-maven-3.8.6\bin;"/>
+    <property name="jdk.debug" value="release"/>
+    <property name="PROCESSOR_ARCHITECTURE" value="AMD64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="jansi.mode" value="strip"/>
+    <property name="PATH+JDK" value="C:\Program Files\Java\jdk-18.0.2/bin"/>
+    <property name="SESSIONNAME" value="Console"/>
+    <property name="PROCESSOR_IDENTIFIER" value="AMD64 Family 23 Model 24 Stepping 1, AuthenticAMD"/>
+    <property name="java.vm.specification.version" value="18"/>
+    <property name="M2_HOME" value="C:\Program Files\Java\apache-maven-3.8.6-bin\apache-maven-3.8.6"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="OS" value="Windows_NT"/>
+    <property name="=D:" value="D:\Driver"/>
+    <property name="CI" value="true"/>
+    <property name="java.io.tmpdir" value="C:\Users\MANAVDEEP SINGH\AppData\Local\Temp\"/>
+    <property name="HUDSON_HOME" value="C:\Users\MANAVDEEP SINGH\.jenkins"/>
+    <property name="PATH+MAVEN" value="C:\Program Files\Java\apache-maven-3.8.6-bin\apache-maven-3.8.6/bin"/>
+    <property name="ProgramFiles(x86)" value="C:\Program Files (x86)"/>
+    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
+    <property name="BUILD_URL" value="http://10.0.0.70:8080/job/seleniummaven/2/"/>
+    <property name="SystemRoot" value="C:\WINDOWS"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="user.dir" value="C:\Users\MANAVDEEP SINGH\eclipse-workspace\mavenjava1"/>
+    <property name="JOB_URL" value="http://10.0.0.70:8080/job/seleniummaven/"/>
+    <property name="LOGONSERVER" value="\\DESKTOP-IB7LD9H"/>
+    <property name="MINITAB_LICENSE_FILE" value="C:\ProgramData\Minitab\Minitab 19"/>
+    <property name="USERDOMAIN" value="DESKTOP-IB7LD9H"/>
+    <property name="MAVEN_HOME" value="C:\Program Files\Java\apache-maven-3.8.6-bin\apache-maven-3.8.6"/>
+    <property name="line.separator" value="
+"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="BUILD_NUMBER" value="2"/>
+    <property name="PROCESSOR_REVISION" value="1801"/>
+    <property name="JENKINS_URL" value="http://10.0.0.70:8080/"/>
+    <property name="ProgramW6432" value="C:\Program Files"/>
+    <property name="windir" value="C:\WINDOWS"/>
+    <property name="=C:" value="C:\Users\MANAVDEEP SINGH"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="SystemDrive" value="C:"/>
+    <property name="maven3.interceptor" value="C:\Users\MANAVDEEP SINGH\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven35-interceptor-1.14.jar"/>
+    <property name="WORKSPACE_TMP" value="C:\Users\MANAVDEEP SINGH\.jenkins\workspace\seleniummaven@tmp"/>
+    <property name="WORKSPACE" value="C:\Users\MANAVDEEP SINGH\.jenkins\workspace\seleniummaven"/>
+    <property name="maven3.interceptor.common" value="C:\Users\MANAVDEEP SINGH\.jenkins\plugins\maven-plugin\WEB-INF\lib\maven3-interceptor-commons-1.14.jar"/>
+    <property name="PSModulePath" value="C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules"/>
+    <property name="java.specification.version" value="18"/>
+    <property name="DriverData" value="C:\Windows\System32\Drivers\DriverData"/>
+  </properties>
+  <testcase classname="QAMaven.UTTest" name="stratBrowser" time="8.612"/>
+  <testcase classname="QAMaven.AppTest" name="testApp on testApp(QAMaven.AppTest)" time="9.024"/>
+</testsuite>
